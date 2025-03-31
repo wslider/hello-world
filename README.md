@@ -1,2 +1,3 @@
 # hello-world
 This is a repository for practicing GitHub Flow and other things.
+What can I say about myself? I could start with whay brought me here. I have a lot of interests, including languages (specifically Malayalam, Hindi, ect). This lead to me looking into programming languages and the realization that there are paths to learn and enter this industry. For some reason, I assumed I needed a formal degree in Computer Science. I also enjoy hiking, travel, paranomal / bigfoot / ufo / lost ancient civilization topics and Jules Verne novels. I host a Bible study podcast on the Weekends. I am the proud owner of a 16 year old beagle mix. 
